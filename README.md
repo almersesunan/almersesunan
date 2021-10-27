@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @almersesunan
 - 👀 I’m interested in anything about Database/Cloud Computing/Big Data or Data Engineering
 - 🌱 I’m currently learning Data Engineering
-- 💞️ I’m looking to collaborate on any corporate/tech company that can imporve my skills
+- 💞️ I’m looking to collaborate on any corporate/tech company that can imporve my skill’s & quality in the face of rapid technological development so that we can grow together
 - 📫 How to reach me on LinkedIn: www.linkedin.com/in/mas-muhammad-almer-sesunan-69b1bb1a0
 
 <!---
